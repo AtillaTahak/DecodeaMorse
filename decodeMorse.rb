@@ -1,4 +1,4 @@
-# Defining a method
+#Defining a method
 
 def decode_char(code)
     decoder = { '.-' => 'A', '-...' => 'B', '-.-.' => 'C', '-..' => 'D', '.' => 'E', '..-.' => 'F', '--.' => 'G',
