@@ -11,7 +11,13 @@
 
 ## Authors
 
-## Author1
+👤 **ATİLLA TAHA KÖRDÜĞÜM**
+
+- GitHub: [@AtillaTahak](https://github.com/AtillaTahak)
+- Twitter: [@AtillaTahaa](https://twitter.com/AtillaTahaa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/atilla-taha-kördüğüm-a93702186/)
+- Blog: [Blog](atillataha.blogspot.com)
+- Youtube: [YouTube](https://www.youtube.com/channel/UCmoD0x4Z9vdG2PCsI5p8FYg)
 
 ### 👨🏾‍⚕️ Kingsley Ibe
 
