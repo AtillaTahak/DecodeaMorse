@@ -25,6 +25,14 @@
 - [Twitter](https://twitter.com/ibekingsley2)
 - [LinkedIn](https://www.linkedin.com/in/kingsley-ibe-5669a5134)
 
+
+👤 **Blessed Jason Mwanza**
+
+- GitHub: [@blessedjasonmwanza](https://github.com/blessedjasonmwanza)
+- Twitter: [@mwanzabj](https://twitter.com/mwanzabj)
+- LinkedIn: [Blessedjasonmwanza](https://linkedin.com/in/blessedjasonmwanza)
+- AngelList: [blessedjasonmwanza](https://angel.co/u/blessedjasonmwanza)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
